@@ -1,0 +1,4 @@
+interface:
+  display_name: "KakaoTalk PC"
+  short_description: "Operate KakaoTalk PC safely and reliably"
+  default_prompt: "Use $kakaotalk-pc to open a KakaoTalk PC chat and perform the requested safe action."
