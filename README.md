@@ -1,11 +1,5 @@
 # KakaoTalk PC App Skills
 
-<!-- PROJECT-PRESENTATION:START -->
-<a href="https://github.com/minwoo19930301/kakaotalk-pc-app-skills"><img src=".github/project-cover.svg" alt="KakaoTalk PC App Skills" width="960"></a>
-
-[![QUICK START](https://img.shields.io/badge/QUICK%20START-374151?style=for-the-badge)](#install) [![SOURCE](https://img.shields.io/badge/SOURCE-444444?style=for-the-badge)](https://github.com/minwoo19930301/kakaotalk-pc-app-skills)
-<!-- PROJECT-PRESENTATION:END -->
-
 Agent guidance for operating KakaoTalk on macOS. Deterministic CLIs first,
 screen automation only where nothing else reaches.
 
